@@ -1,4 +1,5 @@
-### rmotr.com
-# Data Science with Python Course
+This repo is a part of freeCodeCamp Course on Data Analytics with Python.
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+All lecute .ipynb files were cloned from the respective lecture repositories.
+
+MIT License | Vikram S. Negi
